@@ -34,15 +34,16 @@ I write code that writes code.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kagan-dev&show_icons=true&theme=vue" alt="Kagan's GitHub stats" />
-</p>
+[![Skyline](https://img.shields.io/badge/GitHub%20Skyline-Click%20to%20View-green)](https://skyline.github.com/kagan-dev/2024)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagan-dev&layout=compact&theme=vue" alt="Top Languages" />
-</p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/kagan-dev/kagan-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ## 👀 Profile Views
 
@@ -52,8 +53,4 @@ I write code that writes code.
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/kagan-dev/kagan-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
