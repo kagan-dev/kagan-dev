@@ -9,49 +9,34 @@
 ✨ I'm a full-stack developer who loves automation, web design, GitHub bots, and creative backend tooling.  
 I write code that writes code.
 
-### 🔥 I’m passionate about:
-- 🚀 Building full-stack websites  
-- 🛠️ Automating GitHub workflows (fork, PR, Docker, Action runner)  
-- ⚡ Creating smart developer tools & bots  
-- 🌍 Open source contributions
+---
 
-- 💬 Ask me about: **Node.js**, **TypeScript**, **GitHub Actions**, **Docker**  
-- 🎯 Goal for 2025: **Automate 1000 repos with smart bots** 😎
+## 🌌 Stargazer Galaxy
+
+[![Stargazer.dev](https://img.shields.io/badge/Stargazer-Explore+my+stars-purple?style=for-the-badge)](https://stargazer.dev/kagan-dev)
 
 ---
 
-## 🚀 Technologies I Use
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=nodedotjs)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-## 🏙️ GitHub Skyline
+## 🧠 3D DevCard
 
 <p align="center">
-  <a href="https://skyline.github.com/kagan-dev/2024">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline-Click%20to%20View-green?style=for-the-badge" alt="GitHub Skyline Badge" />
+  <a href="https://devcard.link/kagan-dev">
+    <img src="https://api.devcard.link/kagan-dev/card.svg" alt="DevCard" width="90%" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🖼️ Code Card (Carbon.now.sh)
 
 <p align="center">
-  <img src="https://github.com/kagan-dev/kagan-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://carbon.now.sh/api/?bg=rgba(0,0,0,0)&t=dracula&wt=none&l=typescript&code=console.log('Hello%20GitHub');" width="80%" />
 </p>
 
 ---
 
-## 👀 Profile Views
+## 🪪 CodeCard - GitHub Style Profile Card
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kagan-dev&label=Profile%20views&color=2ecc71&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-code-card.vercel.app/api?name=Kagan-dev&code=Fullstack%20Developer%20%7C%20TypeScript%20%26%20Automation%0AGitHub%20Bot%20Builder%20%7C%20Open%20Source%20Enthusiast&theme=tokyonight" width="80%" />
 </p>
