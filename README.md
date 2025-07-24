@@ -32,10 +32,13 @@ I write code that writes code.
 
 ---
 
-## 📊 GitHub Stats
+## 🏙️ GitHub Skyline
 
-[![Skyline](https://img.shields.io/badge/GitHub%20Skyline-Click%20to%20View-green)](https://skyline.github.com/kagan-dev/2024)
-
+<p align="center">
+  <a href="https://skyline.github.com/kagan-dev/2024">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline-Click%20to%20View-green?style=for-the-badge" alt="GitHub Skyline Badge" />
+  </a>
+</p>
 
 ---
 
@@ -45,12 +48,10 @@ I write code that writes code.
   <img src="https://github.com/kagan-dev/kagan-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+---
+
 ## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kagan-dev&label=Profile%20views&color=2ecc71&style=flat" alt="Profile Views" />
 </p>
-
----
-
-
